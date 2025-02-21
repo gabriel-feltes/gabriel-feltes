@@ -12,13 +12,17 @@
 ## 🚀 Featured Project: **GitHub Graph**
 [![GitHub Graph Demo](https://img.shields.io/badge/🌐_Live_Demo-Interactive_Graph-FF6B6B?style=for-the-badge)](https://gabriel-feltes.github.io/github-graph/)
 
-🔹**Extension project from the Computer Engineering community (UFSC, Brazil)**
+⭐ **Extension project from the Computer Engineering community (UFSC, Brazil)** ⭐
 
-**Calling All AI & Open-Source Contributors!**
-This dynamic graph visualization tool is designed to grow with community input.  
-🔹 **Click the website** to explore the project and its documentation  
-🔹 **Contribute your AI knowledge** to add AI teaching resources to the dynamic graph!
-🔹 Perfect for collaboration and expanding interconnections among AI techniques.
+🚀 **Calling All AI & Open-Source Contributors!** 🚀
+
+This dynamic graph visualization tool is designed to grow with community input.
+
+🔹 **Click the website** to explore the project and its documentation
+
+🔹 **Contribute your AI knowledge** to add AI teaching resources to the dynamic graph! They are all built under the Markdown (.md) language rendering.
+
+🔹 Perfect for expanding interconnections among AI techniques.
 
 ---
 
@@ -46,7 +50,7 @@ This dynamic graph visualization tool is designed to grow with community input.
 
 ## 🌟 Featured Open-Source Resource  
 [![Learn Anything](https://img.shields.io/badge/Learn_Anything-Interactive_Knowledge_Graph-FF6B6B?style=for-the-badge)](https://learn-anything.xyz)  
-I’m an enthusiastic supporter of **Learn Anything**, an open-source platform for exploring a wide range of tools and hyperlinks a software — and even hardware — developer needs!. Check it out and broaden your knowledge for your daily life!
+I’m an enthusiastic supporter of **Learn Anything**, an open-source platform for exploring a wide range of tools and hyperlinks a software — and even hardware — developer needs! Check it out and broaden your knowledge for your daily life!
 
 ---
 
