@@ -12,11 +12,13 @@
 ## 🚀 Featured Project: **GitHub Graph**
 [![GitHub Graph Demo](https://img.shields.io/badge/🌐_Live_Demo-Interactive_Graph-FF6B6B?style=for-the-badge)](https://gabriel-feltes.github.io/github-graph/)
 
-**Calling All AI & Open-Source Contributors!**  
+🔹**Extension project from the Computer Engineering community (UFSC, Brazil)**
+
+**Calling All AI & Open-Source Contributors!**
 This dynamic graph visualization tool is designed to grow with community input.  
 🔹 **Click the website** to explore the project and its documentation  
-🔹 **Contribute your AI knowledge** to improve the algorithms  
-🔹 Perfect for collaboration and learning  
+🔹 **Contribute your AI knowledge** to add AI teaching resources to the dynamic graph!
+🔹 Perfect for collaboration and expanding interconnections among AI techniques.
 
 ---
 
